@@ -9,20 +9,20 @@ Estas instruções irão te ajudar a obter uma cópia do projeto em funcionament
 Certifique-se de ter o Node.js instalado em sua máquina. Você pode verificar se o Node.js está instalado e sua versão com o comando:
 
 ```bash
-Copiar código
 node -v
-Instalação
-Clone o repositório:
+```
+### Instalação
+1. Clone o repositório:
 
 ```bash
 git clone git@github.com:CelsoSiqueira1996/React_FirstProject.git
 ```
-Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto:
 
 ```bash
 cd seu-repositorio
 ```
-Instale as dependências:
+3. Instale as dependências:
 
 ```bash
 npm install
@@ -34,20 +34,21 @@ Para iniciar o servidor de desenvolvimento, use:
 npm run dev
 ```
 
-🔍 Sobre o Projeto
-Tecnologias Utilizadas
-React: Biblioteca JavaScript para construir interfaces de usuário.
-Vite: Ferramenta de build rápida e moderna para desenvolvimento com React.
-TypeScript: Superset do JavaScript que adiciona tipagem estática.
-Conceitos Aprendidos
-Componentes: Estruturas reutilizáveis que encapsulam a lógica e o layout do aplicativo.
-Propriedades (Props): Mecanismo para passar dados entre componentes.
-Hook useState: Hook do React que permite adicionar e gerenciar estado em componentes funcionais.
-🛠️ Estrutura do Projeto
+## 🔍 Sobre o Projeto
+### Tecnologias Utilizadas
+- React: Biblioteca JavaScript para construir interfaces de usuário.
+- Vite: Ferramenta de build rápida e moderna para desenvolvimento com React.
+- TypeScript: Superset do JavaScript que adiciona tipagem estática.
+  
+### Conceitos Aprendidos
+- Componentes: Estruturas reutilizáveis que encapsulam a lógica e o layout do aplicativo.
+- Propriedades (Props): Mecanismo para passar dados entre componentes.
+- Hook useState: Hook do React que permite adicionar e gerenciar estado em componentes funcionais.
+  
+## 🛠️ Estrutura do Projeto
 Aqui está uma breve visão geral da estrutura do projeto:
 
-markdown
-Copiar código
+```markdown
 /src
   /components
     - MeuComponente.tsx
@@ -55,18 +56,20 @@ Copiar código
   - main.tsx
   - App.tsx
   - style.css
-App.tsx: Componente principal que gerencia o estado e a renderização dos outros componentes.
-MeuComponente.tsx: Exemplo de um componente funcional que utiliza propriedades e estado.
-MeuComponente.module.css: Arquivos de estilos do componente.
-main.tsx: Ponto de entrada do aplicativo, onde o React é renderizado na DOM.
-global.css: Arquivo de estilos globais.
-🎨 Personalizações
+```
+- App.tsx: Componente principal que gerencia o estado e a renderização dos outros componentes.
+- MeuComponente.tsx: Exemplo de um componente funcional que utiliza propriedades e estado.
+- MeuComponente.module.css: Arquivos de estilos do componente.
+- main.tsx: Ponto de entrada do aplicativo, onde o React é renderizado na DOM.
+- global.css: Arquivo de estilos globais.
+  
+## 🎨 Personalizações
 Você pode personalizar o projeto modificando os componentes e os estilos no diretório src/components e src/style.css. Sinta-se à vontade para adicionar novos componentes e explorar mais sobre o React!
 
-🤝 Contribuições
+## 🤝 Contribuições
 Sinta-se livre para contribuir com melhorias! Se você tiver sugestões ou encontrar problemas, abra uma issue ou um pull request no repositório.
 
-📄 Licença
+## 📄 Licença
 Este projeto é licenciado sob a MIT License.
 
 Se precisar de mais informações ou tiver dúvidas, não hesite em entrar em contato!

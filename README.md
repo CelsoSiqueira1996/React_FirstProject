@@ -14,12 +14,12 @@ node -v
 Instalação
 Clone o repositório:
 
-bash
+```bash
 Copiar código
 git clone git@github.com:CelsoSiqueira1996/React_FirstProject.git
 Navegue até o diretório do projeto:
 
-bash
+```bash
 Copiar código
 cd seu-repositorio
 Instale as dependências:

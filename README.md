@@ -1,14 +1,14 @@
-#Meu Primeiro Projeto React
+# Meu Primeiro Projeto React
 
 Bem-vindo ao meu primeiro projeto React! Neste repositório, estou explorando os conceitos fundamentais do React, como componentes, propriedades e o hook useState. O projeto foi configurado usando Vite e TypeScript para proporcionar uma experiência de desenvolvimento rápida e moderna.
 
-##🚀 Começando
+## 🚀 Começando
 Estas instruções irão te ajudar a obter uma cópia do projeto em funcionamento na sua máquina local.
 
-###Pré-requisitos
+### Pré-requisitos
 Certifique-se de ter o Node.js instalado em sua máquina. Você pode verificar se o Node.js está instalado e sua versão com o comando:
 
-bash
+```bash
 Copiar código
 node -v
 Instalação

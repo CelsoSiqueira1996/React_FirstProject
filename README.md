@@ -15,25 +15,24 @@ Instalação
 Clone o repositório:
 
 ```bash
-Copiar código
 git clone git@github.com:CelsoSiqueira1996/React_FirstProject.git
+```
 Navegue até o diretório do projeto:
 
 ```bash
-Copiar código
 cd seu-repositorio
+```
 Instale as dependências:
 
-bash
-Copiar código
+```bash
 npm install
+```
 Executando o Projeto
 Para iniciar o servidor de desenvolvimento, use:
 
-bash
-Copiar código
+```bash
 npm run dev
-O aplicativo estará disponível em http://localhost:3000.
+```
 
 🔍 Sobre o Projeto
 Tecnologias Utilizadas
